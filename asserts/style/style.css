@@ -1,0 +1,35 @@
+html,
+body {
+	padding: 0;
+	margin: 0;
+	height: 100%;
+}
+.color-lightpink {
+	color: #fff0f6 !important;
+}
+.background-lightpink {
+	background: #fff0f6 !important;
+}
+#main {
+	background: #e4007f;
+}
+
+.content {
+	text-align: center;
+}
+
+.download-btn {
+	background: #e8e8e8 !important;
+	color: #e4007f !important;
+	padding: 10px;
+	font-size: 20px;
+	width: 250px;
+}
+
+.content .main-title {
+	margin: 20px 0;
+}
+
+.content .sub-title {
+	margin-bottom: 50px;
+}
